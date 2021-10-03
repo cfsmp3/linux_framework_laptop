@@ -5,12 +5,12 @@ These are just jotted down notes. Still a work on progress as I'm taking the opp
 ### Hardware
 Framework laptop, batch 3 (09 / 2021)
 
-CPU: Intel® Core™ i7-1165G7
-Memory: 64GB (2 x 32GB) DDR4-3200
-WiFi: Intel® Wi-Fi 6E AX210 No vPro®
-Storage: 2TB - WD_BLACK™ SN850 NVMe™
-Expansions card plugged: 2 USB-C, 1 USB-A, 1 HDMI
-Keyboard: US English
+- CPU: Intel® Core™ i7-1165G7
+- Memory: 64GB (2 x 32GB) DDR4-3200
+- WiFi: Intel® Wi-Fi 6E AX210 No vPro®
+- Storage: 2TB - WD_BLACK™ SN850 NVMe™
+- Expansions card plugged: 2 USB-C, 1 USB-A, 1 HDMI
+- Keyboard: US English
 
 ### Linux
 Ubuntu 21.04
