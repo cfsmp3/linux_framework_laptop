@@ -46,12 +46,12 @@ You can find the pre-built .deb files in the fingerprint directory here if you d
 I've tested two: Dell's TB16, which is discontinued but can be gotten off eBay at very reasonable prices, and Anker's 13-in-1. Dell's doesn't work very well. Anker's is OK-ish. 
 
 **Tested**
-Audio (in/out works fine in zoom, for example)
-Keyboard and mouse - work fine and can wake up the PC from sleep. I'm using the monitor's built-in KVM so there is only one cable for both the keyboard and the mouse going from the monitor to the dock, no problems.
-Power on on AC: OK (needed it power on the laptop when in clamshell mode with having to open the lid, etc)
-1 External monitor works too, but only after Ubuntu is ready, i.e. no BIOS or grub.
+- Audio (in/out works fine in zoom, for example)
+- Keyboard and mouse - work fine and can wake up the PC from sleep. I'm using the monitor's built-in KVM so there is only one cable for both the keyboard and the mouse going from the monitor to the dock, no problems.
+- Power on on AC: OK (needed it power on the laptop when in clamshell mode with having to open the lid, etc)
+- 1 External monitor works too, but only after Ubuntu is ready, i.e. no BIOS or grub.
 
 **Not tested**
-SD reader
-USB ports, except for the keyboard and mouse.
-More than 1 monitor
+- SD reader
+- USB ports, except for the keyboard and mouse.
+- More than 1 monitor
