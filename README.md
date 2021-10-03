@@ -2,6 +2,8 @@
 
 These are just jotted down notes. Still a work on progress as I'm taking the opportunity to test more stuff I never had time to play with. It it not yet my daily driver.
 
+Almost everything comes from the framework community forums. Just compiled it here for convenience.
+
 ### Hardware
 Framework laptop, batch 3 (09 / 2021)
 
@@ -29,6 +31,8 @@ Anker 13-in-1 Thunderbolt 3
 Tested kernel 5.11 (default on Ubuntu 21.04), 5.14, and 5.12 (currently in use).
 5.14 is unusable: Sleep is broken (or wake up is broken) and the only way to get the system back is by hard rebooting.
 5.12 works well but needs a bit of work, see below.
+
+You can get 5.12 here: https://ubuntuhandbook.org/index.php/2021/04/linux-kernel-5-12-released/
 
 ### Wi-Fi
 Wi-Fi with kernel 5.12 by default "sort of works", but speeds are terrible, something like 8 Mbit/s on a good day. The good news is that just adding the correct firmware fixed it for me, no need for any magic incantation. 
