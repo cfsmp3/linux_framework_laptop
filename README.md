@@ -31,7 +31,7 @@ Tested kernel 5.11 (default on Ubuntu 21.04), 5.14, and 5.12 (currently in use).
 ### Wi-Fi
 Wi-Fi with kernel 5.12 by default "sort of works", but speeds are terrible, something like 8 Mbit/s on a good day. The good news is that just adding the correct firmware fixed it for me, no need for any magic incantation. 
 
-Download the firmware from intel's website (I don't know if I can jsut copy it in this repo) and copy the file `iwlwifi-ty-a0-gf-a0-59.ucode` to `/usr/lib/firmware/iwlwifi-ty-a0-gf-a0-59.ucode`
+Download the firmware from intel's website (I don't know if I can just copy it in this repo) and copy the file `iwlwifi-ty-a0-gf-a0-59.ucode` to `/usr/lib/firmware/iwlwifi-ty-a0-gf-a0-59.ucode`
 
 https://wireless.wiki.kernel.org/_media/en/users/drivers/iwlwifi-ty-59.601f3a66.0.tgz
 
