@@ -13,10 +13,12 @@ Framework laptop, batch 3 (09 / 2021)
 - Keyboard: US English
 
 ### Linux
+```
 Ubuntu 21.04
 Linux framework 5.12.0-051200-generic #202104252130 SMP Sun Apr 25 21:33:13 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
 Using Rogolith (i3 flavor). 
 
+```
 ### Display
 1 external monitor. Dell U3419W (3440 x 1440, ultrawide). Laptop runs in clamshell all the time.
 
