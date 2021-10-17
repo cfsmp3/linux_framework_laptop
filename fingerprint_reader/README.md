@@ -1,6 +1,8 @@
-The script source is
+The original script source is
 
-https://drop.azokai.com/TFGGQoLL/ubuntu_libfprint_v1.94.1_install.sh
+https://drop.azokai.com/JHqSJwhS/libfprint_v1.94.1_install_v2.sh
+
+There's a copy here as well in case the original disappears.
 
 Community instructions here
 
