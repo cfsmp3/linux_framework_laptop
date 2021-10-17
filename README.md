@@ -47,7 +47,10 @@ It doesn't work by default but the community has already provided instructions a
 You can find the pre-built .deb files in the fingerprint directory here if you don't want to build them yourself. Note that I just followed the instructions from the community.
 
 ### Dock
-I've tested two: Dell's TB16, which is discontinued but can be gotten off eBay at very reasonable prices, and Anker's 13-in-1. Dell's doesn't work very well. Anker's is OK-ish. 
+Tested: 
+- Dell's TB16, which is discontinued but can be gotten off eBay at very reasonable prices. It doesn't work very well.
+- Pluggable TBT3-UDV. It doesn't have a power button so it's useless in clamshell mode (if you want to have a way to wake up the laptop).
+- Anker's 13-in-1. This is the one I'm currently using so comments are about it. 
 
 **Tested**
 - Audio (in/out works fine in zoom, for example)
@@ -59,3 +62,7 @@ I've tested two: Dell's TB16, which is discontinued but can be gotten off eBay a
 - SD reader
 - USB ports, except for the keyboard and mouse.
 - More than 1 monitor
+
+**Annoyances**
+- Not totally silent. There's some "coil whining". Not enough to throw it out the window immediately but it's definitely there.
+- 
