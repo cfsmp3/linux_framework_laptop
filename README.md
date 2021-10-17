@@ -41,10 +41,21 @@ Download the firmware from intel's website (I don't know if I can just copy it i
 
 https://wireless.wiki.kernel.org/_media/en/users/drivers/iwlwifi-ty-59.601f3a66.0.tgz
 
+### Wi-Fi troubleshooting
+
+For some reason I had to enable multiple SSIDs on my router (Amplifi) so I could easily select the 5G one. Wifi 6 was giving me very frequent disconnects.
+
+With 5G it works OK-ish (but throughput is lower though).
+
+I've seen microcode crashes under stress tests and they are actually common on this chipset, there's several reports about it.
+
+
 ### Fingerprint reader
 It doesn't work by default but the community has already provided instructions and a simple script to build the required drivers. After that it works just fine, both to unlock the computer and even for sudo. 
 
 You can find the pre-built .deb files in the fingerprint directory here if you don't want to build them yourself. Note that I just followed the instructions from the community.
+
+Note that enabling the fingerprint reader means that for sudo and others, the fingerprinter reader takes priority. There's a short (I think, 5 seconds) timeout, and then you will be able to use your password. You will not be able to either type the password or use your finger at the same time. In your laptop is typically in clamshell mode (lid closed and you're using an external keyboard) this becomes annoying, as you can't use the finger and you need to wait every time.
 
 ### Dock
 Tested: 
