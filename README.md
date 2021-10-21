@@ -16,8 +16,8 @@ Framework laptop, batch 3 (09 / 2021)
 
 ### Linux
 ```
-Ubuntu 21.04
-Linux framework 5.12.0-051200-generic #202104252130 SMP Sun Apr 25 21:33:13 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+Ubuntu 21.10
+Linux framework 5.14.13-051413-generic #202110170952 SMP Sun Oct 17 11:42:18 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
 Using Rogolith (i3 flavor). 
 
 ```
@@ -29,7 +29,7 @@ Anker 13-in-1 Thunderbolt 3
 
 ### Kernel
 Tested kernel 5.11 (default on Ubuntu 21.04), 5.14, and 5.12 (currently in use).
-5.14 is unusable: Sleep is broken (or wake up is broken) and the only way to get the system back is by hard rebooting.
+5.14.00 is unusable: Sleep is broken (or wake up is broken) and the only way to get the system back is by hard rebooting.
 5.12 works well but needs a bit of work, see below.
 
 You can get 5.12 here: https://ubuntuhandbook.org/index.php/2021/04/linux-kernel-5-12-released/
