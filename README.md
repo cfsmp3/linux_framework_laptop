@@ -28,9 +28,9 @@ Using Rogolith (i3 flavor).
 Anker 13-in-1 Thunderbolt 3
 
 ### Kernel
-Tested kernel 5.11 (default on Ubuntu 21.04), 5.14, and 5.12 (currently in use).
-5.14.00 and 5.14.13-051413 are unusable: Sleep is broken (or wake up is broken) and the only way to get the system back is by hard rebooting.
-5.12 works well but needs a bit of work, see below.
+Tested kernel 5.11 (default on Ubuntu 21.04), 5.14, and 5.12 (currently in use).  
+5.14.00 and 5.14.13-051413 are unusable: Sleep is broken (or wake up is broken) and the only way to get the system back is by hard rebooting.  
+5.12 works well but needs a bit of work, see below.  
 
 You can get 5.12 here: https://ubuntuhandbook.org/index.php/2021/04/linux-kernel-5-12-released/
 
