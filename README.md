@@ -76,4 +76,6 @@ Tested:
 
 **Annoyances**
 - Not totally silent. There's some "coil whining". Not enough to throw it out the window immediately but it's definitely there.
-- 
+
+**More resources**
+This repo https://github.com/lightrush/framework-laptop-formula/tree/main/framework-laptop for Ubuntu 20.04 seems fantastic. I'm using 21.10 so I haven't tried it personally yet and I don't want some of those changes anyway, but it seems to address all known pain points.
