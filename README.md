@@ -31,6 +31,7 @@ Anker 13-in-1 Thunderbolt 3
 Tested kernel 5.11 (default on Ubuntu 21.04), 5.14, and 5.12 (currently in use).  
 5.14.00 and 5.14.13-051413 are unusable: Sleep is broken (or wake up is broken) and the only way to get the system back is by hard rebooting.  
 5.12 works well but needs a bit of work, see below.  
+Update: 5.14.21-051421 seems to finally have everything working. You can get it here: https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.14.21/
 
 You can get 5.12 here: https://ubuntuhandbook.org/index.php/2021/04/linux-kernel-5-12-released/
 
@@ -41,7 +42,7 @@ Download the firmware from intel's website (I don't know if I can just copy it i
 
 https://wireless.wiki.kernel.org/_media/en/users/drivers/iwlwifi-ty-59.601f3a66.0.tgz
 
-### Wi-Fi troubleshooting
+### Wi-Fi troubleshooting (for 5.12 - might not need this for 5.14)
 
 For some reason I had to enable multiple SSIDs on my router (Amplifi) so I could easily select the 5G one. Wifi 6 was giving me very frequent disconnects.
 
